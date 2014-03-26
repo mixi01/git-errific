@@ -12,6 +12,6 @@ run();
 *
 **/
 function run(){
-    $name = "wentao";
+    $name = "quandrei";
     echo "Hello $name, this is a git-errific tutorial\n";
 }//END function run
